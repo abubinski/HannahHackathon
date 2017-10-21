@@ -8,17 +8,17 @@ module.exports = {
     {
       name: 'Annie Bubinski',
       techFocus: ['Cognitive Services', 'ML'],
-      photoLink: 'https://raw.githubusercontent.com/jcocchi/HannahHackathon/master/images/Annie.PNG'
+      photoLink: 'https://raw.githubusercontent.com/abubinski/HannahHackathon/master/images/Annie.PNG'
     },
     {
       name: 'Jeremy Foster',
       techFocus: ['IoT, Node.js, Azure'],
-      photoLink: 'https://raw.githubusercontent.com/jcocchi/HannahHackathon/master/images/Jeremy.PNG'
+      photoLink: 'https://raw.githubusercontent.com/abubinski/HannahHackathon/master/images/Jeremy.PNG'
     },
     {
       name: 'Tobiah Zarlez',
       techFocus: ['VR/AR/MR, HoloLens, Unity'],
-      photoLink: 'https://raw.githubusercontent.com/jcocchi/HannahHackathon/master/images/Tobiah.PNG'
+      photoLink: 'https://raw.githubusercontent.com/abubinski/HannahHackathon/master/images/Tobiah.PNG'
     }
   ]
 }

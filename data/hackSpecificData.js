@@ -1,49 +1,24 @@
 module.exports = {
-  hackName: 'CalHacks',
-  surveyLink: 'https://aka.ms/CalHacks',
-  teamEmail: 'calhacks@microsoft.com',
+  hackName: 'DubHacks',
+  surveyLink: 'https://aka.ms/dubhacks',
+  teamEmail: 'dubhacks@microsoft.com',
   prize: 'a GoPro Hero 5',
-  boothLocation: 'near the support desk on the first floor',
+  boothLocation: 'in the back of Mary Gates Hall',
   teamMembers: [
     {
-      name: 'Alina',
-      techFocus: ['Java', 'Python'],
-      photoLink: 'https://raw.githubusercontent.com/jcocchi/HannahHackathon/master/images/Alina.jpg'
+      name: 'Annie Bubinski',
+      techFocus: ['Cognitive Services', 'ML'],
+      photoLink: 'https://raw.githubusercontent.com/jcocchi/HannahHackathon/master/images/Annie.PNG'
     },
     {
-      name: 'Davies',
-      techFocus: ['Algorithms', 'NLP', 'UI/UX', 'Web Dev'],
-      photoLink: 'https://raw.githubusercontent.com/jcocchi/HannahHackathon/master/images/Davies.png'
+      name: 'Jeremy Foster',
+      techFocus: ['IoT, Node.js, Azure'],
+      photoLink: 'https://raw.githubusercontent.com/jcocchi/HannahHackathon/master/images/Jeremy.PNG'
     },
     {
-      name: 'Justine',
-      techFocus: ['Bot Framework', 'Cognitive Services', 'Web Dev', 'JavaScript'],
-      photoLink: 'https://raw.githubusercontent.com/jcocchi/HannahHackathon/master/images/Justine.jpg'
-    },
-    {
-      name: 'Pablo',
-      techFocus: ['Azure', 'IaaS', 'Web Dev'],
-      photoLink: 'https://raw.githubusercontent.com/jcocchi/HannahHackathon/master/images/Pablo.jpg'
-    },
-    {
-      name: 'Sara',
-      techFocus: ['Python', 'C#', 'Cognitive Services', 'Azure Media Services'],
-      photoLink: 'https://raw.githubusercontent.com/jcocchi/HannahHackathon/master/images/Sara.jpg'
-    },
-    {
-      name: 'Shan',
-      techFocus: ['Ruby on Rails', 'Java', 'Python', 'Distributed Systems'],
-      photoLink: 'https://raw.githubusercontent.com/jcocchi/HannahHackathon/master/images/Shan.jpg'
-    },
-    {
-      name: 'Tim',
-      techFocus: ['Azure', 'Blockchain', 'JavaScript', 'Mongo DB', 'C#'],
-      photoLink: 'https://raw.githubusercontent.com/jcocchi/HannahHackathon/master/images/Tim.jpg'
-    },
-    {
-      name: 'Yashika',
-      techFocus: ['General Microsoft Tech'],
-      photoLink: 'https://raw.githubusercontent.com/jcocchi/HannahHackathon/master/images/Yashika.png'
+      name: 'Tobiah Zarlez',
+      techFocus: ['VR/AR/MR, HoloLens, Unity'],
+      photoLink: 'https://raw.githubusercontent.com/jcocchi/HannahHackathon/master/images/Tobiah.PNG'
     }
   ]
 }
